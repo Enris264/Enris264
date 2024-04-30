@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python , Full Stack Web Development etc**
 
-- 💬 Ask me about **C,C++,Wed development**
+- 💬 Ask me about **C,C++,Web development**
 
 - 📫 How to reach me **rishabh.jain.en@gmail.com**
 

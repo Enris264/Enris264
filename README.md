@@ -1,7 +1,7 @@
 ![logo](https://github.com/Enris26/Enris26/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Rishabh Jain</h1>
 <h3 align="center">A passionate software Engineer from India</h3>
-<h3 align="center">💭 Random Developer Thought 💭</h3>
+
 
 <img align="right" width="405" alt="coding" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZ6ZTlqN2RvODFmd2w4dzUzMnQwNDFibHhtcG1jNm5ma2N4N2t1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
